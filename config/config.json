@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "adminfitnes",
+    "password": "admin123",
+    "database": "fitness_db",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "adminfitnes",
+    "password": "admin123",
+    "database": "fitness_db_test",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "adminfitnes",
+    "password": "admin123",
+    "database": "fitness_db_prod",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres"
+  }
+}
